@@ -14,7 +14,8 @@ Dataset retrieved from [Kaggle](https://www.kaggle.com/datasets/jessemostipak/ho
 Data cleaning is performed using Excel before importing into Tableau.
 
 ### Exploratory Data Analysis
-![ChurnRateGeography](https://github.com/user-attachments/assets/2d766858-481b-4134-87a0-c2995d7f6f84)  
+![image](https://github.com/user-attachments/assets/f7e2675e-302f-497f-bb2e-09c5d7085c55)  
+
 An initial EDA showed that the churn rate for customers in Germany is 32.44%, while it stands at 16.15% in France and 16.67% in Spain.  
 
 ![Dashboard_ChurnRate](https://github.com/user-attachments/assets/07b2d28b-8eb0-41d0-9050-9165d527fc51)  
@@ -26,7 +27,7 @@ Several areas have been highlighted as contributing to the high churn rate and p
 ### Key Insights and Recommendations
 
 1. Churn rate is high for customers in the Balance range of 100,000 – 150,000 across all Salary range in Germany. The rate is significantly higher among customers who are not active.   
-![GermanyBalanceSalaryChurnRate](https://github.com/user-attachments/assets/f78f3cd7-7ddb-4815-b172-942186c5c485)  
+![image](https://github.com/user-attachments/assets/cbbb9be9-aea8-4273-b28a-66b0300c8d1a)  
 **Recommendation:** Offer promotions/incentives to encourage active transactions targeted at customers with balance range between 100,000 – 150,000
 
 
