@@ -14,7 +14,7 @@ Dataset retrieved from [Kaggle](https://www.kaggle.com/datasets/jessemostipak/ho
 Data cleaning is performed using Excel before importing into Tableau.
 
 ### Exploratory Data Analysis
-![image](https://github.com/user-attachments/assets/f7e2675e-302f-497f-bb2e-09c5d7085c55)  
+![image](https://github.com/user-attachments/assets/62e74033-510f-4a13-a5fc-fecb4ed63328)  
 
 An initial EDA showed that the churn rate for customers in Germany is 32.44%, while it stands at 16.15% in France and 16.67% in Spain.  
 
